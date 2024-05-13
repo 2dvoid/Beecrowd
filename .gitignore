@@ -1,0 +1,4 @@
+# Ignore all files except those named with numerical prefixes followed by .c extension (2290.c)
+*
+!/[0-9]*.c
+
